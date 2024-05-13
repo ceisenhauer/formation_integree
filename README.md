@@ -9,5 +9,6 @@ stable](https://img.shields.io/badge/lifecycle-stable-blue.svg)](https://www.tid
 
 
 **Contexte**
+
 Une collection de codes développés lors d'une formation pour la Cellule d'Analyse Intégrée à Kinshasa, RDC.
 
